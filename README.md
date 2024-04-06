@@ -26,3 +26,6 @@ This page hosts:
 4. Design
 5. Challenges
 6. To-Do
+
+### Prerequisites
+* Code List 1 [Union-Find](https://github.com/prakashbh/day-today-codes/blob/master/10-union-find-basic.c) concepts.
